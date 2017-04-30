@@ -1,6 +1,6 @@
 # Gradeslave
 
-Gradeslave is a project about getting basic Q-Learning to play heads up, limits holdem poker reasonably well. While not complete yet, it will win against a player that always calls!
+Gradeslave is a project about getting basic Q-Learning to play heads up, limits holdem poker reasonably well. While not complete yet, it will, statistically in the long run, win against a player that always calls!
 
 Further improvements we are looking at include:
 * Tidying up the code, making a lot of the logic less convuluted and making the project extendable with better use of interfaces.
